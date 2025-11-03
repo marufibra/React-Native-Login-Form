@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+data.json
+grouped-data.json
+
 # Expo
 .expo/
 dist/
